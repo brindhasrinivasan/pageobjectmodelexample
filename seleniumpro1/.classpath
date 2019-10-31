@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/jxl-2.6.9.jar"/>
+	<classpathentry kind="lib" path="E:/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/testng-6.14.3.jar"/>
+	<classpathentry kind="output" path="out/production/seleniumpro1"/>
+</classpath>

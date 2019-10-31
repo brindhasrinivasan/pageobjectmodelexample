@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d5d2a59-292e-48b4-a534-0d683af5c636" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Rpt9L40FDUotcthKfA7U5Eg1qh" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/data_provider" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.selectableeg">
+    <configuration name="bens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.forinterfaceandabstract.bens" />
+      <module name="seleniumpro1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.forinterfaceandabstract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bmw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.forinterfaceandabstract.bmw" />
+      <module name="seleniumpro1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.forinterfaceandabstract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="caseexecution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.caseexecution" />
+      <module name="seleniumpro1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.forinterfaceandabstract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clickallcheckbox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.clickallcheckbox" />
+      <module name="seleniumpro1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.forinterfaceandabstract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="selectableeg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.selectableeg" />
+      <module name="seleniumpro1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.clickallcheckbox" />
+      <item itemvalue="Application.caseexecution" />
+      <item itemvalue="Application.bmw" />
+      <item itemvalue="Application.bens" />
+      <item itemvalue="Application.selectableeg" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.selectableeg" />
+        <item itemvalue="Application.bmw" />
+        <item itemvalue="Application.bens" />
+        <item itemvalue="Application.caseexecution" />
+        <item itemvalue="Application.clickallcheckbox" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d5d2a59-292e-48b4-a534-0d683af5c636" name="Default Changelist" comment="" />
+      <created>1570375716916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570375716916</updated>
+      <workItem from="1570375747968" duration="4652000" />
+      <workItem from="1570426056301" duration="5717000" />
+      <workItem from="1570444243485" duration="11838000" />
+      <workItem from="1570513890541" duration="3029000" />
+      <workItem from="1570521930633" duration="1893000" />
+      <workItem from="1570530006347" duration="13958000" />
+      <workItem from="1570609050057" duration="8793000" />
+      <workItem from="1570629710913" duration="5965000" />
+      <workItem from="1570641212680" duration="256000" />
+      <workItem from="1570641505735" duration="1059000" />
+      <workItem from="1570711267178" duration="5363000" />
+      <workItem from="1570725437239" duration="1301000" />
+      <workItem from="1570783999563" duration="15348000" />
+      <workItem from="1570864287359" duration="7173000" />
+      <workItem from="1570960626078" duration="3001000" />
+      <workItem from="1570970899191" duration="4619000" />
+      <workItem from="1571038435005" duration="5605000" />
+      <workItem from="1571057342949" duration="369000" />
+      <workItem from="1571117090321" duration="2491000" />
+      <workItem from="1571124933237" duration="41000" />
+      <workItem from="1571207799480" duration="6541000" />
+      <workItem from="1571234394686" duration="1169000" />
+      <workItem from="1571291045479" duration="3235000" />
+      <workItem from="1571404814084" duration="3381000" />
+      <workItem from="1571411227704" duration="3431000" />
+      <workItem from="1571832932175" duration="1654000" />
+      <workItem from="1571843595841" duration="218000" />
+      <workItem from="1572417229989" duration="985000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Simple testing" verbose="2" parallel="methods" thread-count="2">
+    <listeners>
+        <listener class-name="testNg.asserteg"></listener>
+    </listeners>
+    <test name="test cases">
+        <!--<groups>
+         <run>
+            <exclude name="apple"></exclude>
+            &lt;!&ndash; <include name="apple"></include>&ndash;&gt;
+         </run>
+        </groups>-->
+        <!--<parameter name="Name" value="riya"></parameter>-->
+        <classes>
+            <!--<class name="testNg.browseropening"></class>
+            <class name="testNg.dependencytest"></class>
+            <class name="testNg.firsttesting"></class>-->
+           <!-- <class name="testNg.groupeg"></class>-->
+            <!--<class name="testNg.parameterizationeg"></class>-->
+            <!--<class name="testNg.paralleltesteg"></class>-->
+            <class name="testNg.firsttesting"></class>
+        </classes>
+    </test>
+</suite>
